@@ -6,3 +6,4 @@ D:\OneDrive\ドキュメント\IT\20241217_Git勉強用
 　・git commit
 　・git rm
 　・git status
+　・git diff
