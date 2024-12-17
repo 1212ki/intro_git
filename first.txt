@@ -5,3 +5,4 @@ D:\OneDrive\ドキュメント\IT\20241217_Git勉強用
 　・git add
 　・git commit
 　・git rm
+　・git status
