@@ -4,3 +4,4 @@ D:\OneDrive\ドキュメント\IT\20241217_Git勉強用
 基本的なWFについて記載します。
 　・git add
 　・git commit
+　・git rm
